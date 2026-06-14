@@ -1,0 +1,1462 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "HexaHealth Colored Logo" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "HexaHealth Colored Logo" [ref=e8]
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - link "phone" [ref=e11] [cursor=pointer]:
+              - /url: tel:+918512830995
+              - img "phone" [ref=e13]
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://wa.me/918860688606?text=Hi, I want to know more about Gallstones Condition-ID=43 Tier-ID=2
+            - img "search" [ref=e17] [cursor=pointer]
+          - img [ref=e20] [cursor=pointer]
+          - img "menu" [ref=e23]
+    - paragraph [ref=e27] [cursor=pointer]: Get Second Opinion from Top Surgeons! Book an Appointment »
+    - text: "*"
+    - generic [ref=e30]:
+      - heading "Gallstones - Symptoms, Causes, Treatment, Types & More" [level=1] [ref=e31]
+      - generic [ref=e36]:
+        - text: Medically Reviewed by
+        - link "Dr. K R Vasudevan" [ref=e37] [cursor=pointer]:
+          - /url: /noida/doctor/dr-k-r-vasudevan-surgical-gastroenterology
+      - img "Gallstones" [ref=e42] [cursor=pointer]
+      - generic [ref=e43]:
+        - generic [ref=e45] [cursor=pointer]:
+          - paragraph [ref=e46]: Hexa Health Benefits
+          - generic [ref=e47]:
+            - paragraph [ref=e50]: Trusted Doctors and Top Hospitals
+            - paragraph [ref=e53]: Consultations with expert surgeons
+            - paragraph [ref=e56]: Extensive assistance throughout your treatment
+        - generic [ref=e57]:
+          - button "Book Appointment" [ref=e58] [cursor=pointer]
+          - link "WhatsApp Expert" [ref=e59] [cursor=pointer]:
+            - /url: https://wa.me/918860688606?text=Hi, I want to know more about Gallstones Condition-ID=43 Tier-ID=2
+    - navigation [ref=e60]:
+      - generic [ref=e63]:
+        - link "Overview" [ref=e64] [cursor=pointer]:
+          - /url: https://www.hexahealth.com/condition/gallstones#overview
+        - link "Doctors" [ref=e65] [cursor=pointer]:
+          - /url: https://www.hexahealth.com/condition/gallstones#doctors
+        - link "Hospitals" [ref=e66] [cursor=pointer]:
+          - /url: https://www.hexahealth.com/condition/gallstones#hospitals
+        - link "FAQs" [ref=e67] [cursor=pointer]:
+          - /url: https://www.hexahealth.com/condition/gallstones#faqs
+    - generic [ref=e71]:
+      - generic [ref=e73]:
+        - paragraph [ref=e74]: Table of Contents
+        - list [ref=e75]:
+          - listitem [ref=e76]:
+            - link "About Gallbladder Stones" [ref=e77] [cursor=pointer]:
+              - /url: "#about-gallbladder-stones"
+          - listitem [ref=e78]:
+            - link "Types of Gallstones" [ref=e79] [cursor=pointer]:
+              - /url: "#types-of-gallstones"
+          - listitem [ref=e80]:
+            - link "Gallbladder Stones Symptoms" [ref=e81] [cursor=pointer]:
+              - /url: "#gallbladder-stones-symptoms"
+          - listitem [ref=e82]:
+            - link "Gallbladder Stones Causes" [ref=e83] [cursor=pointer]:
+              - /url: "#gallbladder-stones-causes"
+          - listitem [ref=e84]:
+            - link "How gallbladder stones diagnosed?" [ref=e85] [cursor=pointer]:
+              - /url: "#how-gallbladder-stones-diagnosed?"
+          - listitem [ref=e86]:
+            - link "Gallbladder Treatment Options" [ref=e87] [cursor=pointer]:
+              - /url: "#gallbladder-treatment-options"
+          - listitem [ref=e88]:
+            - link "Estimated Cost of Gallstones" [ref=e89] [cursor=pointer]:
+              - /url: "#estimated-cost-of-gallstones"
+          - listitem [ref=e90]:
+            - link "Risks of Delay in Gallstone Treatment" [ref=e91] [cursor=pointer]:
+              - /url: "#risks-of-delay-in-gallstone-treatment"
+          - listitem [ref=e92]:
+            - link "Diet for Gallbladder stones" [ref=e93] [cursor=pointer]:
+              - /url: "#diet-for-gallbladder-stones"
+          - listitem [ref=e94]:
+            - link "Takeaway" [ref=e95] [cursor=pointer]:
+              - /url: "#takeaway"
+      - generic [ref=e97]:
+        - paragraph [ref=e99]: Book Appointment for Gallstones
+        - generic [ref=e100]:
+          - textbox "Enter Your Name*" [ref=e104]
+          - generic [ref=e108]:
+            - generic [ref=e109]: "+91"
+            - spinbutton [ref=e111]
+          - button "Select City" [ref=e115] [cursor=pointer]
+          - button "Book Appointment" [ref=e116] [cursor=pointer]
+          - paragraph [ref=e117]:
+            - text: "*By proceeding, you agree to our"
+            - link "terms and conditions" [ref=e118] [cursor=pointer]:
+              - /url: /terms-conditions
+      - generic [ref=e122]:
+        - paragraph [ref=e123]:
+          - text: A study by Siddiqui et al. in 2023 showed that around
+          - strong [ref=e124]: 6% of people in India have gallbladder stones
+          - text: . It can cause discomfort in your abdomen. In some cases, they can even land you in the hospital needing surgery.
+        - paragraph [ref=e125]: If the stones remain asymptomatic, no treatment is required. However, if there are any gallbladder stone symptoms, a doctor will recommend their removal. The following blog will discuss its symptoms, causes, types, and diagnosis.
+        - table [ref=e127]:
+          - rowgroup [ref=e128]:
+            - row "Disease Name Gallbladder stones" [ref=e129]:
+              - cell "Disease Name" [ref=e130]:
+                - strong [ref=e131]: Disease Name
+              - cell "Gallbladder stones" [ref=e132]:
+                - strong [ref=e133]: Gallbladder stones
+            - row "Symptoms Intense pain in the abdomen or neck, nausea, vomiting, fever, indigestion" [ref=e134]:
+              - cell "Symptoms" [ref=e135]:
+                - strong [ref=e136]: Symptoms
+              - cell "Intense pain in the abdomen or neck, nausea, vomiting, fever, indigestion" [ref=e137]
+            - row "Risk Factors Age, family history of gallbladder stones, obesity" [ref=e138]:
+              - cell "Risk Factors" [ref=e139]:
+                - strong [ref=e140]: Risk Factors
+              - cell "Age, family history of gallbladder stones, obesity" [ref=e141]
+            - row "Diagnosis Imaging studies, blood tests, endoscopic retrograde cholangiopancreatography (ERCP)" [ref=e142]:
+              - cell "Diagnosis" [ref=e143]:
+                - strong [ref=e144]: Diagnosis
+              - cell "Imaging studies, blood tests, endoscopic retrograde cholangiopancreatography (ERCP)" [ref=e145]
+            - row "Treated By Gastroenterologist" [ref=e146]:
+              - cell "Treated By" [ref=e147]:
+                - strong [ref=e148]: Treated By
+              - cell "Gastroenterologist" [ref=e149]
+            - row "Treatment Medication, surgery" [ref=e150]:
+              - cell "Treatment" [ref=e151]:
+                - strong [ref=e152]: Treatment
+              - cell "Medication, surgery" [ref=e153]
+      - img [ref=e156] [cursor=pointer]
+      - generic [ref=e158]:
+        - heading "About Gallbladder Stones" [level=2] [ref=e159]
+        - generic [ref=e160]:
+          - paragraph [ref=e161]: The gallbladder, a pear-shaped organ beneath the liver, stores bile (digestive fluid) and releases it into the small intestine during digestion. The stones are solidified accumulations of digestive fluid that may develop within the gallbladder.
+          - paragraph [ref=e162]:
+            - text: It may vary in size, from tiny particles resembling grains of sand to large spheres comparable to golf balls. While a gallstones diagnosis may sometimes show a single gallstone for some individuals, others may form multiple stones simultaneously.
+            - img "Gallbladder Stones" [ref=e163]
+      - generic [ref=e164]:
+        - heading "Gallstones Videos by HexaHealth" [level=2] [ref=e166]
+        - generic [ref=e167]:
+          - generic [ref=e169]:
+            - generic [ref=e172]:
+              - img "Youtube" [ref=e174]
+              - generic [ref=e176]:
+                - generic [ref=e177]:
+                  - paragraph [ref=e178]: All about Gallstones & their Treatment || HexaHealth expert Dr. Anshuman Kaushal
+                  - paragraph
+                - generic [ref=e180]: 1 years ago
+            - generic [ref=e183]:
+              - img "Youtube" [ref=e185]
+              - generic [ref=e187]:
+                - generic [ref=e188]:
+                  - paragraph [ref=e189]: How much does Gall Bladder Removal Surgery cost in India? || HexaHealth expert Dr. Aman Priya Khanna
+                  - paragraph
+                - generic [ref=e191]: 1 years ago
+            - generic [ref=e194]:
+              - img "Youtube" [ref=e196]
+              - generic [ref=e198]:
+                - generic [ref=e199]:
+                  - paragraph [ref=e200]: How to know if you have Gallstones? || HexaHealth Expert
+                  - paragraph
+                - generic [ref=e202]: 1 years ago
+            - generic [ref=e205]:
+              - img "Youtube" [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e210]:
+                  - paragraph [ref=e211]: What are Gallstones? || HexaHealth Expert
+                  - paragraph
+                - generic [ref=e213]: 1 years ago
+            - generic [ref=e216]:
+              - img "Youtube" [ref=e218]
+              - generic [ref=e220]:
+                - generic [ref=e221]:
+                  - paragraph [ref=e222]: Webinar on Gallstone Removal, Its Causes & Treatment
+                  - paragraph
+                - generic [ref=e224]: 1 years ago
+            - generic [ref=e227]:
+              - img "Youtube" [ref=e229]
+              - generic [ref=e231]:
+                - generic [ref=e232]:
+                  - paragraph [ref=e233]: Treatment of Gallstones without surgery? | | HexaHealth Expert
+                  - paragraph
+                - generic [ref=e235]: 1 years ago
+            - generic [ref=e238]:
+              - img "Youtube" [ref=e240]
+              - generic [ref=e242]:
+                - generic [ref=e243]:
+                  - paragraph [ref=e244]: Dangers of leaving your Gallstones untreated || HexaHealth Expert
+                  - paragraph
+                - generic [ref=e246]: 1 years ago
+            - generic [ref=e249]:
+              - img "Youtube" [ref=e251]
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - paragraph [ref=e255]: All you Need to Know About Gallstones|| Pregnancy Gallstones Treatment || Cholecystectomy Surgery
+                  - paragraph
+                - generic [ref=e257]: 1 years ago
+            - generic [ref=e260]:
+              - img "Youtube" [ref=e262]
+              - generic [ref=e264]:
+                - generic [ref=e265]:
+                  - paragraph [ref=e266]: Best ways to treat Gallstones || Advanced Laparoscopic Surgery|| HexaHealth
+                  - paragraph
+                - generic [ref=e268]: 1 years ago
+          - generic [ref=e269]:
+            - button "Go to slide 1" [ref=e270] [cursor=pointer]
+            - button "Go to slide 2" [ref=e271] [cursor=pointer]
+            - button "Go to slide 3" [ref=e272] [cursor=pointer]
+            - button "Go to slide 4" [ref=e273] [cursor=pointer]
+            - button "Go to slide 5" [ref=e274] [cursor=pointer]
+      - generic [ref=e275]:
+        - paragraph [ref=e276]: Expert Doctors (10)
+        - generic [ref=e279]:
+          - generic [ref=e281]:
+            - generic [ref=e283]:
+              - generic [ref=e285]:
+                - generic [ref=e286]:
+                  - link "Dr. Ajay Kumar Kriplani Hexa Partner" [ref=e288] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-ajay-kumar-kriplani-general-surgery
+                    - generic [ref=e289]:
+                      - img "Dr. Ajay Kumar Kriplani" [ref=e290]
+                      - img "Hexa Partner" [ref=e293]
+                  - generic [ref=e294]:
+                    - paragraph [ref=e296]:
+                      - link "Dr. Ajay Kumar Kriplani" [ref=e297] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/doctor/dr-ajay-kumar-kriplani-general-surgery
+                    - paragraph [ref=e299]: General Surgery,Bariatric Surgery,Laparoscopi...
+                    - generic [ref=e300] [cursor=pointer]:
+                      - generic [ref=e301]:
+                        - paragraph [ref=e303]:
+                          - generic [ref=e304]: 48+ Years
+                        - paragraph [ref=e305]: Experience
+                      - generic [ref=e306]:
+                        - paragraph [ref=e308]:
+                          - generic [ref=e309]: 98%
+                        - paragraph [ref=e310]: Recommended
+                - button "Book Appointment" [ref=e312] [cursor=pointer]
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - link "Dr. R S Gandhi Hexa Partner" [ref=e317] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/delhi/doctor/dr-r-s-gandhi-laparoscopy-and-general-surgery
+                    - generic [ref=e318]:
+                      - img "Dr. R S Gandhi" [ref=e319]
+                      - img "Hexa Partner" [ref=e322]
+                  - generic [ref=e323]:
+                    - paragraph [ref=e325]:
+                      - link "Dr. R S Gandhi" [ref=e326] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-r-s-gandhi-laparoscopy-and-general-surgery
+                    - paragraph [ref=e328]: General Surgery,Laparoscopic Surgery
+                    - generic [ref=e329] [cursor=pointer]:
+                      - generic [ref=e330]:
+                        - paragraph [ref=e332]:
+                          - generic [ref=e333]: 42+ Years
+                        - paragraph [ref=e334]: Experience
+                      - generic [ref=e335]:
+                        - paragraph [ref=e337]:
+                          - generic [ref=e338]: 96%
+                        - paragraph [ref=e339]: Recommended
+                - button "Book Appointment" [ref=e341] [cursor=pointer]
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - link "Dr. Rajiv Nayan Hexa Partner" [ref=e346] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/delhi/doctor/dr-rajiv-nayan-laparoscopy-and-general-surgery
+                    - generic [ref=e347]:
+                      - img "Dr. Rajiv Nayan" [ref=e348]
+                      - img "Hexa Partner" [ref=e351]
+                  - generic [ref=e352]:
+                    - paragraph [ref=e354]:
+                      - link "Dr. Rajiv Nayan" [ref=e355] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-rajiv-nayan-laparoscopy-and-general-surgery
+                    - paragraph [ref=e357]: Laparoscopy and General Surgery
+                    - generic [ref=e358] [cursor=pointer]:
+                      - generic [ref=e359]:
+                        - paragraph [ref=e361]:
+                          - generic [ref=e362]: 41+ Years
+                        - paragraph [ref=e363]: Experience
+                      - generic [ref=e364]:
+                        - paragraph [ref=e366]:
+                          - generic [ref=e367]: 100%
+                        - paragraph [ref=e368]: Recommended
+                - button "Book Appointment" [ref=e370] [cursor=pointer]
+            - generic [ref=e372]:
+              - generic [ref=e374]:
+                - generic [ref=e375]:
+                  - link "Dr. Arvind Kumar Hexa Partner" [ref=e377] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/delhi/doctor/dr-arvind-kumar-paediatrics
+                    - generic [ref=e378]:
+                      - img "Dr. Arvind Kumar" [ref=e379]
+                      - img "Hexa Partner" [ref=e382]
+                  - generic [ref=e383]:
+                    - paragraph [ref=e385]:
+                      - link "Dr. Arvind Kumar" [ref=e386] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-arvind-kumar-paediatrics
+                    - paragraph [ref=e388]: General Surgery, Laparoscopic Surgery
+                    - generic [ref=e389] [cursor=pointer]:
+                      - generic [ref=e390]:
+                        - paragraph [ref=e392]:
+                          - generic [ref=e393]: 40+ Years
+                        - paragraph [ref=e394]: Experience
+                      - generic [ref=e395]:
+                        - paragraph [ref=e397]:
+                          - generic [ref=e398]: 98%
+                        - paragraph [ref=e399]: Recommended
+                - button "Book Appointment" [ref=e401] [cursor=pointer]
+              - generic [ref=e403]:
+                - generic [ref=e404]:
+                  - link "Dr. Ashish Pitale Hexa Partner" [ref=e406] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/delhi/doctor/dr-ashish-pitale-general-surgery
+                    - generic [ref=e407]:
+                      - img "Dr. Ashish Pitale" [ref=e408]
+                      - img "Hexa Partner" [ref=e411]
+                  - generic [ref=e412]:
+                    - paragraph [ref=e414]:
+                      - link "Dr. Ashish Pitale" [ref=e415] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-ashish-pitale-general-surgery
+                    - paragraph [ref=e417]: General Surgery
+                    - generic [ref=e418] [cursor=pointer]:
+                      - generic [ref=e419]:
+                        - paragraph [ref=e421]:
+                          - generic [ref=e422]: 34+ Years
+                        - paragraph [ref=e423]: Experience
+                      - generic [ref=e424]:
+                        - paragraph [ref=e426]:
+                          - generic [ref=e427]: 96%
+                        - paragraph [ref=e428]: Recommended
+                - button "Book Appointment" [ref=e430] [cursor=pointer]
+              - generic [ref=e432]:
+                - generic [ref=e433]:
+                  - link "Dr. Rashmi Pyasi Hexa Partner" [ref=e435] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-rashmi-pyasi-general-surgery
+                    - generic [ref=e436]:
+                      - img "Dr. Rashmi Pyasi" [ref=e437]
+                      - img "Hexa Partner" [ref=e440]
+                  - generic [ref=e441]:
+                    - paragraph [ref=e443]:
+                      - link "Dr. Rashmi Pyasi" [ref=e444] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/doctor/dr-rashmi-pyasi-general-surgery
+                    - paragraph [ref=e446]: General Surgery,Laparoscopic Surgery,Bariatri...
+                    - generic [ref=e447] [cursor=pointer]:
+                      - generic [ref=e448]:
+                        - paragraph [ref=e450]:
+                          - generic [ref=e451]: 33+ Years
+                        - paragraph [ref=e452]: Experience
+                      - generic [ref=e453]:
+                        - paragraph [ref=e455]:
+                          - generic [ref=e456]: 98%
+                        - paragraph [ref=e457]: Recommended
+                - button "Book Appointment" [ref=e459] [cursor=pointer]
+            - generic [ref=e461]:
+              - generic [ref=e463]:
+                - generic [ref=e464]:
+                  - link "Dr. Rajat Saxena Hexa Partner" [ref=e466] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/noida/doctor/dr-rajat-saxena-oncology
+                    - generic [ref=e467]:
+                      - img "Dr. Rajat Saxena" [ref=e468]
+                      - img "Hexa Partner" [ref=e471]
+                  - generic [ref=e472]:
+                    - paragraph [ref=e474]:
+                      - link "Dr. Rajat Saxena" [ref=e475] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/noida/doctor/dr-rajat-saxena-oncology
+                    - paragraph [ref=e477]: General Surgery,Laparoscopic Surgery
+                    - generic [ref=e478] [cursor=pointer]:
+                      - generic [ref=e479]:
+                        - paragraph [ref=e481]:
+                          - generic [ref=e482]: 31+ Years
+                        - paragraph [ref=e483]: Experience
+                      - generic [ref=e484]:
+                        - paragraph [ref=e486]:
+                          - generic [ref=e487]: 95%
+                        - paragraph [ref=e488]: Recommended
+                - button "Book Appointment" [ref=e490] [cursor=pointer]
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - link "Dr. Shashank Rastogi Hexa Partner" [ref=e495] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-shashank-rastogi-general-surgery
+                    - generic [ref=e496]:
+                      - img "Dr. Shashank Rastogi" [ref=e497]
+                      - img "Hexa Partner" [ref=e500]
+                  - generic [ref=e501]:
+                    - paragraph [ref=e503]:
+                      - link "Dr. Shashank Rastogi" [ref=e504] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/doctor/dr-shashank-rastogi-general-surgery
+                    - paragraph [ref=e506]: General Surgery,Bariatric Surgery,Proctology
+                    - generic [ref=e507] [cursor=pointer]:
+                      - generic [ref=e508]:
+                        - paragraph [ref=e510]:
+                          - generic [ref=e511]: 30+ Years
+                        - paragraph [ref=e512]: Experience
+                      - generic [ref=e513]:
+                        - paragraph [ref=e515]:
+                          - generic [ref=e516]: 96%
+                        - paragraph [ref=e517]: Recommended
+                - button "Book Appointment" [ref=e519] [cursor=pointer]
+              - generic [ref=e521]:
+                - generic [ref=e522]:
+                  - link "Dr. Vikas Kapur Hexa Partner" [ref=e524] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-vikas-kapur-gastroenterology-surgical
+                    - generic [ref=e525]:
+                      - img "Dr. Vikas Kapur" [ref=e526]
+                      - img "Hexa Partner" [ref=e529]
+                  - generic [ref=e530]:
+                    - paragraph [ref=e532]:
+                      - link "Dr. Vikas Kapur" [ref=e533] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/doctor/dr-vikas-kapur-gastroenterology-surgical
+                    - paragraph [ref=e535]: Bariatric Surgery, Surgical Gastroenterology,...
+                    - generic [ref=e536] [cursor=pointer]:
+                      - generic [ref=e537]:
+                        - paragraph [ref=e539]:
+                          - generic [ref=e540]: 30+ Years
+                        - paragraph [ref=e541]: Experience
+                      - generic [ref=e542]:
+                        - paragraph [ref=e544]:
+                          - generic [ref=e545]: 99%
+                        - paragraph [ref=e546]: Recommended
+                - generic [ref=e547]:
+                  - text: "Consultation Fee:"
+                  - generic [ref=e548]: ₹1400
+                  - text: (approximate)
+                - button "Book Appointment" [ref=e550] [cursor=pointer]
+            - generic [ref=e554]:
+              - generic [ref=e555]:
+                - link "Dr. Paritosh S Gupta Hexa Partner" [ref=e557] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/gurgaon/doctor/dr-paritosh-s-gupta
+                  - generic [ref=e558]:
+                    - img "Dr. Paritosh S Gupta" [ref=e559]
+                    - img "Hexa Partner" [ref=e562]
+                - generic [ref=e563]:
+                  - paragraph [ref=e565]:
+                    - link "Dr. Paritosh S Gupta" [ref=e566] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/gurgaon/doctor/dr-paritosh-s-gupta
+                  - paragraph [ref=e568]: General Surgery,Laparoscopic Surgery,Bariatri...
+                  - generic [ref=e569] [cursor=pointer]:
+                    - generic [ref=e570]:
+                      - paragraph [ref=e572]:
+                        - generic [ref=e573]: 29+ Years
+                      - paragraph [ref=e574]: Experience
+                    - generic [ref=e575]:
+                      - paragraph [ref=e577]:
+                        - generic [ref=e578]: 99%
+                      - paragraph [ref=e579]: Recommended
+              - generic [ref=e580]:
+                - text: "Consultation Fee:"
+                - generic [ref=e581]: ₹1500
+                - text: (approximate)
+              - button "Book Appointment" [ref=e583] [cursor=pointer]
+          - generic [ref=e584]:
+            - button "Go to slide 1" [ref=e585] [cursor=pointer]
+            - button "Go to slide 2" [ref=e586] [cursor=pointer]
+            - button "Go to slide 3" [ref=e587] [cursor=pointer]
+            - button "Go to slide 4" [ref=e588] [cursor=pointer]
+      - generic [ref=e589]:
+        - paragraph [ref=e590]: NABH Accredited Hospitals (10)
+        - generic [ref=e593]:
+          - generic [ref=e595]:
+            - generic [ref=e597]:
+              - generic [ref=e599]:
+                - generic [ref=e600]:
+                  - generic [ref=e601]:
+                    - link "Avantika Multispeciality Hospital" [ref=e602] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/avantika-multispeciality-hospital
+                      - img "Avantika Multispeciality Hospital" [ref=e606]
+                    - generic [ref=e607]:
+                      - img "JCI" [ref=e609]
+                      - img "NABH" [ref=e611]
+                  - generic [ref=e612]:
+                    - paragraph [ref=e613]:
+                      - link "Avantika Multispeciality Hospital" [ref=e614] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/avantika-multispeciality-hospital
+                    - generic [ref=e617] [cursor=pointer]:
+                      - text: 4.9/5
+                      - generic [ref=e618]: (72 Ratings)
+                    - generic [ref=e619]: Rohini, Delhi
+                - button "Book Appointment" [ref=e621] [cursor=pointer]
+              - generic [ref=e623]:
+                - generic [ref=e624]:
+                  - generic [ref=e625]:
+                    - link "Dharamshila Narayana Superspeciality Hospital, Vasundhara Enclave" [ref=e626] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/dharamshila-narayana-superspeciality-hospital
+                      - img "Dharamshila Narayana Superspeciality Hospital, Vasundhara Enclave" [ref=e630]
+                    - generic [ref=e631]:
+                      - img "JCI" [ref=e633]
+                      - img "NABH" [ref=e635]
+                  - generic [ref=e636]:
+                    - paragraph [ref=e637]:
+                      - link "Dharamshila Narayana Superspeciality Hospital, Vasundhara Enclave" [ref=e638] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/dharamshila-narayana-superspeciality-hospital
+                    - generic [ref=e641] [cursor=pointer]:
+                      - text: 4.9/5
+                      - generic [ref=e642]: (97 Ratings)
+                    - generic [ref=e643]: Vasundhara Enclave, Delhi
+                - button "Book Appointment" [ref=e645] [cursor=pointer]
+              - generic [ref=e647]:
+                - generic [ref=e648]:
+                  - generic [ref=e649]:
+                    - link "Narayana Superspeciality Hospital, Sector 24" [ref=e650] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram
+                      - img "Narayana Superspeciality Hospital, Sector 24" [ref=e654]
+                    - generic [ref=e655]:
+                      - img "JCI" [ref=e657]
+                      - img "NABH" [ref=e659]
+                  - generic [ref=e660]:
+                    - paragraph [ref=e661]:
+                      - link "Narayana Superspeciality Hospital, Sector 24" [ref=e662] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram
+                    - generic [ref=e665] [cursor=pointer]:
+                      - text: 4.8/5
+                      - generic [ref=e666]: (98 Ratings)
+                    - generic [ref=e667]: Sector 24, Gurgaon
+                - button "Book Appointment" [ref=e669] [cursor=pointer]
+            - generic [ref=e671]:
+              - generic [ref=e673]:
+                - generic [ref=e674]:
+                  - generic [ref=e675]:
+                    - link "Aakash Healthcare Super Speciality Hospital, Dwarka" [ref=e676] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/aakash-healthcare-super-speciality-hospital-dwarka
+                      - img "Aakash Healthcare Super Speciality Hospital, Dwarka" [ref=e680]
+                    - generic [ref=e681]:
+                      - img "JCI" [ref=e683]
+                      - img "NABH" [ref=e685]
+                  - generic [ref=e686]:
+                    - paragraph [ref=e687]:
+                      - link "Aakash Healthcare Super Speciality Hospital, Dwarka" [ref=e688] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/aakash-healthcare-super-speciality-hospital-dwarka
+                    - generic [ref=e691] [cursor=pointer]:
+                      - text: 4.9/5
+                      - generic [ref=e692]: (91 Ratings)
+                    - generic [ref=e693]: Dwarka Sector 3, Delhi
+                - button "Book Appointment" [ref=e695] [cursor=pointer]
+              - generic [ref=e697]:
+                - generic [ref=e698]:
+                  - generic [ref=e699]:
+                    - link "Apollo Spectra Hospital, NSG Chowk" [ref=e700] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/greater-noida/hospital/apollo-spectra-hospital-greater-noida
+                      - img "Apollo Spectra Hospital, NSG Chowk" [ref=e704]
+                    - generic [ref=e705]:
+                      - img "JCI" [ref=e707]
+                      - img "NABH" [ref=e709]
+                  - generic [ref=e710]:
+                    - paragraph [ref=e711]:
+                      - link "Apollo Spectra Hospital, NSG Chowk" [ref=e712] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/greater-noida/hospital/apollo-spectra-hospital-greater-noida
+                    - generic [ref=e715] [cursor=pointer]:
+                      - text: 4.5/5
+                      - generic [ref=e716]: (91 Ratings)
+                    - generic [ref=e717]: NSG Chowk, Greater Noida
+                - button "Book Appointment" [ref=e719] [cursor=pointer]
+              - generic [ref=e721]:
+                - generic [ref=e722]:
+                  - generic [ref=e723]:
+                    - link "Fortis Memorial Research Institute, Sector 44" [ref=e724] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/gurgaon/hospital/fortis-memorial-research-institute-gurugram
+                      - img "Fortis Memorial Research Institute, Sector 44" [ref=e728]
+                    - generic [ref=e729]:
+                      - img "JCI" [ref=e731]
+                      - img "NABH" [ref=e733]
+                  - generic [ref=e734]:
+                    - paragraph [ref=e735]:
+                      - link "Fortis Memorial Research Institute, Sector 44" [ref=e736] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/gurgaon/hospital/fortis-memorial-research-institute-gurugram
+                    - generic [ref=e739] [cursor=pointer]:
+                      - text: 4.6/5
+                      - generic [ref=e740]: (96 Ratings)
+                    - generic [ref=e741]: Sector 44, Gurgaon
+                - button "Book Appointment" [ref=e743] [cursor=pointer]
+            - generic [ref=e745]:
+              - generic [ref=e747]:
+                - generic [ref=e748]:
+                  - generic [ref=e749]:
+                    - link "Manipal Hospital, Dwarka" [ref=e750] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/manipal-hospital-delhi
+                      - img "Manipal Hospital, Dwarka" [ref=e754]
+                    - generic [ref=e755]:
+                      - img "JCI" [ref=e757]
+                      - img "NABH" [ref=e759]
+                  - generic [ref=e760]:
+                    - paragraph [ref=e761]:
+                      - link "Manipal Hospital, Dwarka" [ref=e762] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/manipal-hospital-delhi
+                    - generic [ref=e765] [cursor=pointer]:
+                      - text: 4.5/5
+                      - generic [ref=e766]: (91 Ratings)
+                    - generic [ref=e767]: Dwarka, Delhi
+                - button "Book Appointment" [ref=e769] [cursor=pointer]
+              - generic [ref=e771]:
+                - generic [ref=e772]:
+                  - generic [ref=e773]:
+                    - link "HCG ICS Khubchandani Cancer Centre" [ref=e774] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/hcg-ics-khubchandani-cancer-centre-nariman-point
+                      - img "HCG ICS Khubchandani Cancer Centre" [ref=e778]
+                    - generic [ref=e779]:
+                      - img "JCI" [ref=e781]
+                      - img "NABH" [ref=e783]
+                  - generic [ref=e784]:
+                    - paragraph [ref=e785]:
+                      - link "HCG ICS Khubchandani Cancer Centre" [ref=e786] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/mumbai/hospital/hcg-ics-khubchandani-cancer-centre-nariman-point
+                    - generic [ref=e789] [cursor=pointer]:
+                      - text: 4.5/5
+                      - generic [ref=e790]: (94 Ratings)
+                    - generic [ref=e791]: Cooperage, Mumbai
+                - button "Book Appointment" [ref=e793] [cursor=pointer]
+              - generic [ref=e795]:
+                - generic [ref=e796]:
+                  - generic [ref=e797]:
+                    - link "Seven Hills Hospital, Andheri East" [ref=e798] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/sevenhills-hospital-andheri-east
+                      - img "Seven Hills Hospital, Andheri East" [ref=e802]
+                    - generic [ref=e803]:
+                      - img "JCI" [ref=e805]
+                      - img "NABH" [ref=e807]
+                  - generic [ref=e808]:
+                    - paragraph [ref=e809]:
+                      - link "Seven Hills Hospital, Andheri East" [ref=e810] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/mumbai/hospital/sevenhills-hospital-andheri-east
+                    - generic [ref=e813] [cursor=pointer]:
+                      - text: 4.5/5
+                      - generic [ref=e814]: (98 Ratings)
+                    - generic [ref=e815]: Andheri East, Mumbai
+                - button "Book Appointment" [ref=e817] [cursor=pointer]
+            - generic [ref=e821]:
+              - generic [ref=e822]:
+                - generic [ref=e823]:
+                  - link "Fortis Flt Lt Rajan Dhall Hospital, Vasant Kunj" [ref=e824] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/delhi/hospital/fortis-flt-lt-rajan-dhall-hospital-vasant-kunj
+                    - img "Fortis Flt Lt Rajan Dhall Hospital, Vasant Kunj" [ref=e828]
+                  - generic [ref=e829]:
+                    - img "JCI" [ref=e831]
+                    - img "NABH" [ref=e833]
+                - generic [ref=e834]:
+                  - paragraph [ref=e835]:
+                    - link "Fortis Flt Lt Rajan Dhall Hospital, Vasant Kunj" [ref=e836] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/fortis-flt-lt-rajan-dhall-hospital-vasant-kunj
+                  - generic [ref=e839] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e840]: (96 Ratings)
+                  - generic [ref=e841]: Vasant Kunj, Delhi
+              - button "Book Appointment" [ref=e843] [cursor=pointer]
+          - generic [ref=e844]:
+            - button "Go to slide 1" [ref=e845] [cursor=pointer]
+            - button "Go to slide 2" [ref=e846] [cursor=pointer]
+            - button "Go to slide 3" [ref=e847] [cursor=pointer]
+            - button "Go to slide 4" [ref=e848] [cursor=pointer]
+      - generic [ref=e849]:
+        - heading "Gallstones Success Stories" [level=2] [ref=e851]
+        - generic [ref=e852]:
+          - generic [ref=e854]:
+            - generic [ref=e857]:
+              - img "Youtube" [ref=e859]
+              - generic [ref=e861]:
+                - generic [ref=e862]:
+                  - paragraph [ref=e863]: Gallstones Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e865]: 1 years ago
+            - generic [ref=e868]:
+              - img "Youtube" [ref=e870]
+              - generic [ref=e872]:
+                - generic [ref=e873]:
+                  - paragraph [ref=e874]: Gallstones Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e876]: 1 years ago
+            - generic [ref=e879]:
+              - img "Youtube" [ref=e881]
+              - generic [ref=e883]:
+                - generic [ref=e884]:
+                  - paragraph [ref=e885]: Pilonidal Sinus Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e887]: 1 years ago
+            - generic [ref=e890]:
+              - img "Youtube" [ref=e892]
+              - generic [ref=e894]:
+                - generic [ref=e895]:
+                  - paragraph [ref=e896]: Gallstones Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e898]: 1 years ago
+            - generic [ref=e901]:
+              - img "Youtube" [ref=e903]
+              - generic [ref=e905]:
+                - generic [ref=e906]:
+                  - paragraph [ref=e907]: Gallstones Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e909]: 1 years ago
+            - generic [ref=e912]:
+              - img "Youtube" [ref=e914]
+              - generic [ref=e916]:
+                - generic [ref=e917]:
+                  - paragraph [ref=e918]: Pilonidal Sinus Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e920]: 1 years ago
+            - generic [ref=e923]:
+              - img "Youtube" [ref=e925]
+              - generic [ref=e927]:
+                - generic [ref=e928]:
+                  - paragraph [ref=e929]: Gallstone Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e931]: 1 years ago
+            - generic [ref=e934]:
+              - img "Youtube" [ref=e936]
+              - generic [ref=e938]:
+                - generic [ref=e939]:
+                  - paragraph [ref=e940]: Gallstone Surgery || HexaHealth Success Story
+                  - paragraph
+                - generic [ref=e942]: 1 years ago
+          - generic [ref=e943]:
+            - button "Go to slide 1" [ref=e944] [cursor=pointer]
+            - button "Go to slide 2" [ref=e945] [cursor=pointer]
+            - button "Go to slide 3" [ref=e946] [cursor=pointer]
+            - button "Go to slide 4" [ref=e947] [cursor=pointer]
+            - button "Go to slide 5" [ref=e948] [cursor=pointer]
+      - generic [ref=e950]:
+        - heading "Types of Gallstones" [level=2] [ref=e951]
+        - generic [ref=e952]:
+          - paragraph [ref=e953]:
+            - text: There exist two primary categories of stones in the
+            - link "gallbladder" [ref=e954] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/blog/gallbladder
+            - text: ". They are cholesterol stones and bilirubin stones. Let us understand them below:"
+          - list [ref=e955]:
+            - listitem [level=1] [ref=e956]:
+              - strong [ref=e957]: Cholesterol Stones
+              - text: ": These are the most prevalent type. They do not appear on CT scans but can be detected via abdominal sonograms (ultrasounds)."
+            - listitem [level=1] [ref=e958]:
+              - strong [ref=e959]: Bilirubin Stones
+              - text: ": Also known as pigment stones, these form when excessive bilirubin is present in bile due to the breakdown of RBC (red blood cells)."
+          - heading "Gallbladder Stones Grade" [level=3] [ref=e960]:
+            - strong [ref=e961]: Gallbladder Stones Grade
+          - img "5 Grades of Gallstones" [ref=e963]
+          - paragraph [ref=e964]: The PGS grades cholecystitis (gallbladder inflammation) and helps in predicting the complexity of gallbladder stone surgery by the surgeon. The above table categorises gallbladder conditions from Grade 1 (no adhesions) to Grade 5 (gallbladder perforation or tissue death).
+      - generic [ref=e966]:
+        - heading "Gallbladder Stones Symptoms" [level=2] [ref=e967]
+        - generic [ref=e968]:
+          - paragraph [ref=e969]: "Some individuals with silent stones in the gallbladder may not exhibit any symptoms. These stones do not impede the function of the gallbladder, liver, or pancreas and don't require gallstone treatment. However, sometimes gallstone pain can be excruciating when they obstruct the biliary tract:"
+          - list [ref=e970]:
+            - listitem [ref=e971]: Persistent, intense pain in the upper abdomen that escalated quickly. It can endure for periods ranging from 30 minutes to several hours.
+            - listitem [ref=e972]: Pain in the right shoulder and back
+            - listitem [ref=e973]: Nausea and vomiting
+            - listitem [ref=e974]: Fever and chills
+            - listitem [ref=e975]: Jaundice, characterised by yellowing of the skin or eyes
+            - listitem [ref=e976]: Gastric symptoms like abdominal bloating, indigestion, belching or excess gas
+            - listitem [ref=e977]: Inability to tolerate fatty foods
+          - paragraph [ref=e978]:
+            - img "5 Gallstones Symptoms" [ref=e979]
+      - generic [ref=e981]:
+        - heading "Gallbladder Stones Causes" [level=2] [ref=e982]
+        - generic [ref=e983]:
+          - paragraph [ref=e984]: "Gallbladder stones are mainly caused due to changes in the bile. However, researchers cannot precisely predict the reasons behind these modifications. Here are some specific gallstones causes of this condition:"
+          - list [ref=e985]:
+            - listitem [level=1] [ref=e986]:
+              - strong [ref=e987]: Excess Cholesterol
+              - text: ": When the bile contains more cholesterol than can be dissolved, it can form cholesterol stones."
+            - listitem [level=1] [ref=e988]:
+              - strong [ref=e989]: Bilirubin
+              - text: ": High bilirubin levels in bile can contribute to the formation of pigment stones."
+            - listitem [level=1] [ref=e990]:
+              - strong [ref=e991]: Incomplete Emptying of the Gallbladder
+              - text: ": If this organ fails to empty due to a lack of fibre or water intake, it can contribute to the formation of stones in the gallbladder."
+          - paragraph [ref=e992]:
+            - img "2 Causes of Gallstones" [ref=e993]
+          - heading "Risk Factor of Gallbladder Stones" [level=2] [ref=e994]:
+            - strong [ref=e995]: Risk Factor of Gallbladder Stones
+          - paragraph [ref=e996]: "Gallbladder stones pose different risks, some of which are not easily visible. Some such risk factors associated with gallbladder stones include:"
+          - heading "Modifiable Risks" [level=3] [ref=e997]:
+            - strong [ref=e998]: Modifiable Risks
+          - list [ref=e999]:
+            - listitem [level=1] [ref=e1000]:
+              - strong [ref=e1001]:
+                - link "Obesity" [ref=e1002] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/condition/obesity
+              - text: ": A significant risk factor for stones in the gallbladder, especially notable in women."
+            - listitem [level=1] [ref=e1003]:
+              - strong [ref=e1004]: Cholesterol-lowering Drugs
+              - text: ": Medications to reduce blood cholesterol can boost bile cholesterol secretion. This can increase gallstone risk."
+            - listitem [level=1] [ref=e1005]:
+              - strong [ref=e1006]: Diabetes
+              - text: ": Diabetics often have elevated triglyceride levels, elevating gallstone risk."
+            - listitem [level=1] [ref=e1007]:
+              - strong [ref=e1008]: Rapid Weight Loss
+              - text: ": During rapid weight loss, the liver releases excess cholesterol into bile, promoting gallstone formation."
+            - listitem [level=1] [ref=e1009]:
+              - strong [ref=e1010]: Fasting
+              - text: ": It slows gallbladder movement, leading to cholesterol over-concentration in bile."
+            - listitem [level=1] [ref=e1011]:
+              - strong [ref=e1012]: Oestrogen
+              - text: ": Excess oestrogen, whether from pregnancy, hormone therapy, or birth control, raises bile cholesterol levels. This, in turn, reduces gallbladder activity, increasing gallstone risk."
+          - heading "Non Modifiable Risks" [level=3] [ref=e1013]:
+            - strong [ref=e1014]: Non Modifiable Risks
+          - list [ref=e1015]:
+            - listitem [ref=e1016]:
+              - strong [ref=e1017]: Gender
+              - text: ": Women are twice as prone to gallbladder stones as men."
+            - listitem [ref=e1018]:
+              - strong [ref=e1019]: Age
+              - text: ": Individuals over 60 years of age face higher gallstone risks compared to younger age groups."
+          - paragraph [ref=e1020]:
+            - img "6 Risk Factors for Gallstones" [ref=e1021]
+          - heading "Prevention of Gallbladder Stones" [level=2] [ref=e1022]:
+            - strong [ref=e1023]: Prevention of Gallbladder Stones
+          - paragraph [ref=e1024]: "One can take a few measures to lessen the occurrence of stones in the gallbladder. Follow these guidelines to avoid developing stones in the gallbladder:"
+          - list [ref=e1025]:
+            - listitem [level=1] [ref=e1026]: Maintain regular meal times and don't skip meals. Irregular eating patterns or fasting can heighten the risk of gallbladder stones.
+            - listitem [level=1] [ref=e1027]: If individuals need to shed pounds, they must do so gradually. Sudden weight loss can elevate the chances of stones in gallbladder. Aim for a loss of 1 or 2 pounds (0.5 to 1 kilogram) per week.
+            - listitem [level=1] [ref=e1028]: Increase the intake of high-fibre foods like fruits, vegetables, and whole grains.
+            - listitem [level=1] [ref=e1029]: Keep a healthy weight because being overweight or obese is associated with a higher risk of gallbladder stones. It can be achieved by reducing calorie intake and increasing physical activity. Once the target weight is reached, maintain it by sustaining a balanced diet and staying active.
+      - generic [ref=e1031]:
+        - heading "How gallbladder stones diagnosed?" [level=2] [ref=e1032]
+        - generic [ref=e1033]:
+          - paragraph [ref=e1034]: "The healthcare provider may examine if a person feels persistent or recurring pain in the abdomen or neck. Below is the gallbladder diagnosis:"
+          - list [ref=e1035]:
+            - listitem [level=1] [ref=e1036]:
+              - strong [ref=e1037]: Ultrasound
+              - text: ": This method utilises high-frequency sound waves to produce images of internal organs."
+            - listitem [level=1] [ref=e1038]:
+              - strong [ref=e1039]: Cholecystography
+              - text: ": An X-ray procedure that reveals the movement of contrast fluid from the intestines into the gallbladder."
+            - listitem [level=1] [ref=e1040]:
+              - strong [ref=e1041]: Blood Tests
+              - text: ": These examinations evaluate for signs of infection, obstruction, jaundice, and/or pancreatitis."
+            - listitem [level=1] [ref=e1042]:
+              - strong [ref=e1043]: Computed Tomography Scan (CT or CAT scan)
+              - text: ": A diagnostic imaging technique that merges X-rays with computer technology. CT scans excel at detecting gallstones that contain calcium. These stones appear bright white on the scan and are easily distinguishable from surrounding tissues."
+            - listitem [level=1] [ref=e1044]:
+              - strong [ref=e1045]:
+                - link "Endoscopic Retrograde Cholangiopancreatography (ERCP)" [ref=e1046] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/treatment/ercp-test
+              - text: ": This procedure involves inserting an endoscope (a viewing tube) through the stomach into the small intestine. Then, a special dye is administered to see the ducts within the biliary system."
+            - listitem [level=1] [ref=e1047]:
+              - strong [ref=e1048]: Sphincterotomy
+              - text: ": It widens the sphincter muscle, a ring-like muscle surrounding a natural opening acting as a valve. This eases the passage of stones into the intestine."
+          - heading "How do you prepare for a doctor consultation?" [level=3] [ref=e1049]:
+            - strong [ref=e1050]: How do you prepare for a doctor consultation?
+          - paragraph [ref=e1051]: "Certain aspects must be considered when preparing for a gastroenterologist doctor consultation for gallbladder stones. This ensures that the patient gets the most out of their visit. Here's how one can prepare:"
+          - list [ref=e1052]:
+            - listitem [ref=e1053]: Collect all the medical records and any relevant test results.
+            - listitem [ref=e1054]: Request a family member to accompany you.
+            - listitem [ref=e1055]: Prepare a list of all current medications or supplements.
+            - listitem [ref=e1056]: Note down the symptoms, pain areas and the severity of pain.
+            - listitem [ref=e1057]: Write down any questions for the doctor.
+          - heading "Questions to ask the doctor" [level=3] [ref=e1058]:
+            - strong [ref=e1059]: Questions to ask the doctor
+          - paragraph [ref=e1060]: When consulting a doctor about gallbladder stone surgery, having a well-prepared list of questions is essential. This will allow people to understand their condition and the available treatment options.
+          - list [ref=e1061]:
+            - listitem [level=1] [ref=e1062]: What is the severity or grade of the gallbladder stones?
+            - listitem [level=1] [ref=e1063]: What are the available treatment options?
+            - listitem [level=1] [ref=e1064]: What is the recommended course of action?
+            - listitem [level=1] [ref=e1065]: What are the potential side effects of these treatments?
+            - listitem [level=1] [ref=e1066]: How will this affect my daily life?
+          - paragraph [ref=e1067]:
+            - img "4 Steps of Gallstones Diagnosis" [ref=e1068]
+        - 'generic "Play: Video" [ref=e1069]':
+          - generic [ref=e1070] [cursor=pointer]:
+            - 'img "Play: Video" [ref=e1071]'
+            - 'button "Play: Video" [ref=e1072]'
+      - generic [ref=e1074]:
+        - heading "Gallbladder Treatment Options" [level=2] [ref=e1075]
+        - generic [ref=e1076]:
+          - paragraph [ref=e1077]: "If gallbladder stones are symptomatic, it's essential to contact a doctor. Even if these symptoms subside, they may reoccur, necessitating treatment. The typical approach for managing gallstones involves the following:"
+          - heading "Nonsurgical Treatments" [level=3] [ref=e1078]:
+            - strong [ref=e1079]: Nonsurgical Treatments
+          - paragraph [ref=e1080]: "Nonsurgical options are reserved for specific situations, such as when surgery is contraindicated due to severe medical conditions. However, gallstone pain may still recur even with treatment, requiring ongoing or lifelong management. These may include:"
+          - list [ref=e1081]:
+            - listitem [ref=e1082]:
+              - strong [ref=e1083]: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+              - text: ": Used to remove stones in the gallbladder stuck in the common bile duct."
+            - listitem [ref=e1084]:
+              - strong [ref=e1085]: Oral Dissolution Therapy
+              - text: ": Medications containing bile acids, such as Ursodiol and Chenodiol, can help dissolve small cholesterol stones over months or years."
+            - listitem [ref=e1086]:
+              - strong [ref=e1087]: Shock Wave Lithotripsy
+              - text: ": Occasionally used to break the stones in the gallbladder into smaller fragments, sometimes in combination with oral dissolution therapy."
+          - paragraph [ref=e1088]:
+            - img "3 Gallstones Treatment Without Surgery" [ref=e1089]
+          - heading "Ayurvedic Treatment for Gallbladder Stones" [level=3] [ref=e1090]:
+            - strong [ref=e1091]: Ayurvedic Treatment for Gallbladder Stones
+          - paragraph [ref=e1092]: "Certain ayurvedic therapies detoxify the liver and gallbladder, boost bile flow, dissolve stones, and aid digestion. These therapies include:"
+          - list [ref=e1093]:
+            - listitem [level=1] [ref=e1094]:
+              - strong [ref=e1095]: Panchakarma
+              - text: ": Includes vamana, virechana, basti, nasya, and raktamokshana to eliminate toxins and restore organ health."
+            - listitem [level=1] [ref=e1096]:
+              - strong [ref=e1097]: Liver Flush
+              - text: ": This procedure involves olive oil, lemon juice, and spices to stimulate gallbladder contraction and cleanse the liver."
+            - listitem [level=1] [ref=e1098]:
+              - strong [ref=e1099]: Hot Pack
+              - text: ": Apply heat or a castor oil compress to the gallbladder area to reduce inflammation, pain, and spasms and enhance blood circulation and bile flow."
+          - paragraph [ref=e1100]: "Ayurvedic medicines can also help detoxify and improve the liver and gallbladder health. These medicines include:"
+          - list [ref=e1101]:
+            - listitem [level=1] [ref=e1102]:
+              - strong [ref=e1103]: Shankavati
+              - text: ": Contains shankha bhasma, trikatu, triphala, and other herbs to reduce acidity, inflammation, pain, dissolve stones, and prevent infections."
+            - listitem [level=1] [ref=e1104]:
+              - strong [ref=e1105]: Sootasekar Ras
+              - text: ": This supplement includes purified metals and herbs that enhance liver and gallbladder function, aid digestion, and dissolve stones."
+            - listitem [level=1] [ref=e1106]:
+              - strong [ref=e1107]: Pravaalpanchaamrit
+              - text: ": Balances Pitta, reduces inflammation and gallbladder pain, and prevents stone recurrence."
+            - listitem [level=1] [ref=e1108]:
+              - strong [ref=e1109]: Hingwaashtak
+              - strong [ref=e1110]: Choorna
+              - text: ": A powder blend of hing, shunthi, maricha, pippali, ajmoda, saunf, jeera, and saindhav lavan to enhance digestive fire, reduce gas, stimulate gallbladder and liver, improve bile flow, and dissolve stones."
+            - listitem [level=1] [ref=e1111]:
+              - strong [ref=e1112]: Avipattikar Choorna
+              - text: ": Powder with trikatu, triphala, vidanga, musta, ela, lavang, patra, trivrit, and sharkara. It reduces acidity, inflammation, gallbladder pain, cleanses liver and gallbladder, improves digestion, and dissolves stones."
+          - heading "Homoeopathic Treatment for Gallbladder Stones" [level=3] [ref=e1113]:
+            - strong [ref=e1114]: Homoeopathic Treatment for Gallbladder Stones
+          - paragraph [ref=e1115]: "Several medicines in homoeopathic Materia Medica are effective for gallstone disease. Some notable ones include:"
+          - list [ref=e1116]:
+            - listitem [level=1] [ref=e1117]: Berberis vulgaris
+            - listitem [level=1] [ref=e1118]: Calcarea carbonica
+            - listitem [level=1] [ref=e1119]: Carduus marianus
+            - listitem [level=1] [ref=e1120]: China
+            - listitem [level=1] [ref=e1121]: Chamomilla
+            - listitem [level=1] [ref=e1122]: Chionanthus
+            - listitem [level=1] [ref=e1123]: Lycopodium
+            - listitem [level=1] [ref=e1124]: Veratrum album
+          - heading "Gallbladder Surgery Options" [level=3] [ref=e1125]:
+            - strong [ref=e1126]: Gallbladder Surgery Options
+          - paragraph [ref=e1127]: Cholecystectomy, the surgical gallbladder removal, is a standard gallstone procedure. Since it is not an essential organ, its removal doesn't significantly impact normal bodily functions.
+          - paragraph [ref=e1128]: "Once the gallbladder has been removed, the bile will flow directly from the liver, hepatic duct and common bile duct into the duodenum, bypassing the gallbladder. Cholecystectomy is commonly of two types:"
+          - list [ref=e1129]:
+            - listitem [ref=e1130]:
+              - strong [ref=e1131]:
+                - link "Laparoscopic Cholecystectomy" [ref=e1132] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/treatment/laparoscopic-cholecystectomy
+              - text: ": This minimally invasive procedure is preferred by most surgeons and is often performed on an outpatient basis. This allows patients to return home the same day. Recovery time is typically about a week."
+            - listitem [ref=e1133]:
+              - strong [ref=e1134]:
+                - link "Open Cholecystectomy" [ref=e1135] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/treatment/open-cholecystectomy
+              - text: ": This procedure is performed when the gallbladder is severely inflamed, infected, or scarred from previous surgeries. Hospitalisation may take up to a week, with full recovery taking about a month."
+          - paragraph [ref=e1136]:
+            - strong [ref=e1137]: Note
+            - text: ": The gallbladder stones treatment approach may be selected based on a patient's condition, symptoms and doctor's opinion."
+          - paragraph [ref=e1138]:
+            - img "2 Gallstone Surgery Options" [ref=e1139]
+        - 'generic "Play: Video" [ref=e1140]':
+          - generic [ref=e1141] [cursor=pointer]:
+            - 'img "Play: Video" [ref=e1142]'
+            - 'button "Play: Video" [ref=e1143]'
+      - generic [ref=e1145]:
+        - heading "Estimated Cost of Gallstones" [level=2] [ref=e1146]
+        - generic [ref=e1147]:
+          - paragraph [ref=e1148]:
+            - text: The minimum
+            - link "cost of laparoscopic cholecystectomy" [ref=e1149] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/treatment/laparoscopic-cholecystectomy-cost
+            - text: in India is ₹40,000, with costs varying among hospitals and centres due to several factors. On average, this procedure costs around ₹65,000, but prices can range up to ₹80,000.
+          - table [ref=e1151]:
+            - rowgroup [ref=e1152]:
+              - row "Treatment Options (Surgical) Estimated Cost Range" [ref=e1153]:
+                - cell "Treatment Options (Surgical)" [ref=e1154]:
+                  - strong [ref=e1155]: Treatment Options (Surgical)
+                - cell "Estimated Cost Range" [ref=e1156]:
+                  - strong [ref=e1157]: Estimated Cost Range
+              - row "Laparoscopic Cholecystectomy ₹40,000 to ₹80,000" [ref=e1158]:
+                - cell "Laparoscopic Cholecystectomy" [ref=e1159]
+                - cell "₹40,000 to ₹80,000" [ref=e1160]
+        - 'generic "Play: Video" [ref=e1161]':
+          - generic [ref=e1162] [cursor=pointer]:
+            - 'img "Play: Video" [ref=e1163]'
+            - 'button "Play: Video" [ref=e1164]'
+      - generic [ref=e1166]:
+        - heading "Risks of Delay in Gallstone Treatment" [level=2] [ref=e1167]
+        - generic [ref=e1168]:
+          - paragraph [ref=e1169]: "Delaying treatment for gallbladder stones can lead to recurrent pain. However, there are some more complications associated with the delay. These are:"
+          - list [ref=e1170]:
+            - listitem [level=1] [ref=e1171]:
+              - strong [ref=e1172]: Stone Slipped Into CBD
+              - text: ": Stones may move from the gallbladder and block a bile duct. This may result in intense abdominal pain radiating to the upper back, lasting from minutes to hours."
+            - listitem [level=1] [ref=e1173]:
+              - strong [ref=e1174]: Biliary Tract Blockage and Inflammation
+              - text: ": Prolonged blockage in the gallbladder duct can cause inflammation (cholecystitis). This may manifest as fever, infection, and pain."
+            - listitem [level=1] [ref=e1175]:
+              - strong [ref=e1176]: Gallbladder Tissue Necrosis and Infection
+              - text: ": Untreated cholecystitis can progress to gallbladder tissue death, potentially leading to serious conditions. These may include empyema (a pus-filled cavity in an organ), gangrene (death of body tissue due to a lack of blood supply), perforation, and sepsis (organ dysfunction)."
+            - listitem [level=1] [ref=e1177]:
+              - strong [ref=e1178]: Common Bile Duct Obstruction
+              - text: ": Gallbladder stones passing into the common bile duct can obstruct it, resulting in choledocholithiasis."
+            - listitem [level=1] [ref=e1179]:
+              - strong [ref=e1180]: Jaundice
+              - text: ": Stones in the gallbladder can block bile flow, causing jaundice. This is characterised by yellowing of the eyes and skin, dark urine, and pale stools."
+            - listitem [level=1] [ref=e1181]:
+              - strong [ref=e1182]: Pancreatitis
+              - text: ": Gallbladder stones may obstruct the pancreatic duct, causing severe pancreatitis and worsening abdominal pain."
+          - paragraph [ref=e1183]:
+            - img "4 Risks of Gallstone" [ref=e1184]
+          - heading "When to consult a doctor?" [level=3] [ref=e1185]:
+            - strong [ref=e1186]: When to consult a doctor?
+          - paragraph [ref=e1187]: "Schedule a consultation with the doctor when experiencing any concerning gallstone symptoms or signs. Here are situations that call for medical attention:"
+          - list [ref=e1188]:
+            - listitem [ref=e1189]: If the temperature exceeds 101 F
+            - listitem [ref=e1190]: Urinary discharge with a thick, yellow, or green hue
+            - listitem [ref=e1191]: If surgical wounds exhibit bleeding, redness, warmth
+            - listitem [ref=e1192]: When pain persists despite medication
+            - listitem [ref=e1193]: Difficulty in breathing or a persistent cough
+            - listitem [ref=e1194]: Yellowing of the skin or eyes
+            - listitem [ref=e1195]: Grey or pale stools
+          - separator [ref=e1196]
+          - paragraph [ref=e1197]:
+            - emphasis [ref=e1198]: "\"I frequently see gallstones, especially in patients with diets high in refined carbohydrates and saturated fats. Obesity, rapid weight loss, and genetic factors also contribute significantly. To reduce the risk of gallstone formation, I encourage my patients to eat a balanced fibre-rich diet, maintain a healthy weight, and engage in regular physical activity.\""
+          - paragraph [ref=e1199]:
+            - text: "-"
+            - emphasis [ref=e1200]:
+              - link "Dr Vasudevan KR" [ref=e1201] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/noida/doctor/dr-k-r-vasudevan-surgical-gastroenterology
+            - emphasis [ref=e1202]: Liver transplant, Gastro Surgeon
+          - separator [ref=e1203]
+      - generic [ref=e1205]:
+        - heading "Diet for Gallbladder stones" [level=2] [ref=e1206]
+        - generic [ref=e1207]:
+          - paragraph [ref=e1208]: "To reduce the chances of developing stones in the gallbladder, adopt a diet rich in nutrients and indulge in more physical activities. It is essential to achieve and sustain a healthy weight. Health experts advise the following strategies for gallstone prevention:"
+          - list [ref=e1209]:
+            - listitem [level=1] [ref=e1210]:
+              - strong [ref=e1211]: Fibre-rich Diet
+              - text: ": Increase consumption of fibre-rich foods such as fruits, legumes, vegetables and whole grains like brown rice, oats, and whole wheat bread. This reduces the chance of cholesterol in bile crystallising and forming gallstones."
+            - listitem [level=1] [ref=e1212]:
+              - strong [ref=e1213]: Decrease Sugar Intake
+              - text: ": Refined carbohydrates and sugar can cause rapid swings in blood sugar levels. This might trigger the liver to produce more cholesterol, which can contribute to gallstone formation."
+            - listitem [level=1] [ref=e1214]:
+              - strong [ref=e1215]: Healthy Fats
+              - text: ": Incorporate fish oil and olive oil into a regular diet to promote regular contraction and emptying of the gallbladder."
+            - listitem [level=1] [ref=e1216]:
+              - strong [ref=e1217]: Avoid Unhealthy Fats
+              - text: ": These are commonly found in desserts and fried foods. Unhealthy fats can increase cholesterol levels in bile, promoting gallstone formation."
+          - paragraph [ref=e1218]: Before making any alterations to dietary habits, consult with a healthcare provider. Rapid weight loss can pose health risks, so it's essential to approach weight management cautiously.
+          - paragraph [ref=e1219]:
+            - img "Gallstone Diet" [ref=e1220]
+      - generic [ref=e1222]:
+        - heading "Takeaway" [level=2] [ref=e1223]
+        - generic [ref=e1224]:
+          - paragraph [ref=e1225]: Gallbladder stones are small, pebble-like objects that can cause significant harm if they enter narrow passages in the biliary system. Experiencing a gallstone attack can be distressing. Nonetheless, gallbladder removal is a routine procedure with an excellent prognosis.
+          - paragraph [ref=e1226]:
+            - text: For those experiencing Gallbladder stone symptoms, surgery is an effective procedure that helps resolve this condition. At
+            - link "HexaHealth" [ref=e1227] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/
+            - text: ", we specialise in assisting patients experiencing gallstone symptoms by connecting them with expert doctors for optimal care. We help facilitate timely diagnosis, treatment and also offer comprehensive support throughout their treatment."
+          - paragraph [ref=e1228]:
+            - strong [ref=e1229]: Read Also
+          - list [ref=e1230]:
+            - listitem [ref=e1231]:
+              - link "How to Remove Gallstones Naturally" [ref=e1232] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog/how-to-remove-gallstones-naturally
+            - listitem [ref=e1233]:
+              - link "Difference Between Kidney Stone and Gallstone" [ref=e1234] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog/difference-between-kidney-stone-and-gallstone
+            - listitem [ref=e1235]:
+              - link "Side Effects of Gallbladder Removal" [ref=e1236] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog/side-effects-of-gallbladder-removal
+        - 'generic "Play: Video" [ref=e1237]':
+          - generic [ref=e1238] [cursor=pointer]:
+            - 'img "Play: Video" [ref=e1239]'
+            - 'button "Play: Video" [ref=e1240]'
+      - link [ref=e1242] [cursor=pointer]:
+        - /url: https://www.hexahealth.com/questions
+        - img [ref=e1243]
+      - generic [ref=e1246]:
+        - heading "FAQs for Gallstones" [level=2] [ref=e1247]
+        - generic [ref=e1248]:
+          - heading "What are gallbladder stones?" [level=3] [ref=e1251] [cursor=pointer]
+          - heading "How do gallbladder stones form?" [level=3] [ref=e1254] [cursor=pointer]
+          - heading "What are the common symptoms of gallbladder stones?" [level=3] [ref=e1257] [cursor=pointer]
+          - heading "How can I tell if I have gallbladder stones?" [level=3] [ref=e1260] [cursor=pointer]
+          - heading "What causes gallbladder stones to develop?" [level=3] [ref=e1263] [cursor=pointer]
+          - heading "How are gallbladder stones diagnosed?" [level=3] [ref=e1266] [cursor=pointer]
+          - heading "What are the treatment options for gallbladder stones?" [level=3] [ref=e1269] [cursor=pointer]
+          - heading "Is it necessary to remove the gallbladder in case stones form?" [level=3] [ref=e1272] [cursor=pointer]
+          - heading "When is surgery necessary for gallbladder stones?" [level=3] [ref=e1275] [cursor=pointer]
+          - heading "What is involved in gallbladder stone surgery?" [level=3] [ref=e1278] [cursor=pointer]
+          - heading "What should I expect during gallbladder removal surgery (cholecystectomy)?" [level=3] [ref=e1281] [cursor=pointer]
+          - heading "How can I manage gallstone pain?" [level=3] [ref=e1284] [cursor=pointer]
+          - heading "Can gallstones go away on their own?" [level=3] [ref=e1287] [cursor=pointer]
+          - heading "What is the recovery time after gallbladder removal surgery?" [level=3] [ref=e1290] [cursor=pointer]
+          - heading "Are there any dietary changes I should make to prevent gallbladder stones?" [level=3] [ref=e1293] [cursor=pointer]
+          - heading "What are the long-term effects of living without a gallbladder?" [level=3] [ref=e1296] [cursor=pointer]
+          - heading "How can I prevent gallbladder stones from forming in the future?" [level=3] [ref=e1299] [cursor=pointer]
+          - heading "Is gallbladder stone serious?" [level=3] [ref=e1302] [cursor=pointer]
+          - heading "What size of gallbladder stones need surgery?" [level=3] [ref=e1305] [cursor=pointer]
+      - generic [ref=e1306]:
+        - heading "Gallstones Cost Videos" [level=2] [ref=e1308]
+        - generic [ref=e1314]:
+          - img "Youtube" [ref=e1316]
+          - generic [ref=e1318]:
+            - generic [ref=e1319]:
+              - paragraph [ref=e1320]: How much does Gall Bladder Removal Surgery cost in India? || HexaHealth expert Dr. Aman Priya Khanna
+              - paragraph
+            - generic [ref=e1322]: 1 years ago
+      - generic [ref=e1323]:
+        - heading "References" [level=2] [ref=e1324]
+        - paragraph [ref=e1325]:
+          - text: All the articles on HexaHealth are supported by verified medically-recognized sources such as; peer-reviewed academic research papers, research institutions, and medical journals. Our
+          - link "medical reviewers" [ref=e1326] [cursor=pointer]:
+            - /url: /reviewers
+          - text: also check references of the articles to prioritize accuracy and relevance. Refer to our detailed
+          - link "editorial policy" [ref=e1327] [cursor=pointer]:
+            - /url: /editorial-policy
+          - text: for more information.
+        - list [ref=e1328]:
+          - listitem [ref=e1329]:
+            - text: Mohd Adnan Siddiqui, Dwivedi N, Mohammed Haris Siddiqui, Rana SV, Sharma A, Dash NR, et al. NMR spectroscopy-based analysis of gallstones of cancerous and benign gallbladders from different geographical regions of the Indian subcontinent. PloS one. 2023 Jun 23;18(6):e0286979–9.
+            - link "link" [ref=e1330] [cursor=pointer]:
+              - /url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10289436/
+              - img "link" [ref=e1331]
+          - listitem [ref=e1332]:
+            - text: Mayo Clinic. Gallstones - Symptoms and causes [Internet]. Mayo Clinic. 2021
+            - link "link" [ref=e1333] [cursor=pointer]:
+              - /url: https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214
+              - img "link" [ref=e1334]
+          - listitem [ref=e1335]:
+            - text: Gallstones symptoms and treatment [Internet]. NHS inform.
+            - link "link" [ref=e1336] [cursor=pointer]:
+              - /url: https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/gallstones/#:~:text=About%20gallstones
+              - img "link" [ref=e1337]
+          - listitem [ref=e1338]:
+            - text: Better health Channel. Gallbladder - gallstones and surgery [Internet]. Vic.gov.au. 2012.
+            - link "link" [ref=e1339] [cursor=pointer]:
+              - /url: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/gallbladder-gallstones-and-surgery
+              - img "link" [ref=e1340]
+          - listitem [ref=e1341]:
+            - text: "Gallbladder Pain: Causes & Treatment [Internet]. Cleveland Clinic."
+            - link "link" [ref=e1342] [cursor=pointer]:
+              - /url: https://my.clevelandclinic.org/health/symptoms/23355-gallbladder-pain
+              - img "link" [ref=e1343]
+          - listitem [ref=e1344]:
+            - text: "Gallbladder removal - laparoscopic - discharge: MedlinePlus Medical Encyclopedia [Internet]. medlineplus.gov."
+            - link "link" [ref=e1345] [cursor=pointer]:
+              - /url: https://medlineplus.gov/ency/patientinstructions/000117.htm#:~:text=Recovering%20from%20laparoscopic%20cholecystectomy%20will
+              - img "link" [ref=e1346]
+          - listitem [ref=e1347]:
+            - text: Gallstones [Internet]. Pennmedicine.org. 2022.
+            - link "link" [ref=e1348] [cursor=pointer]:
+              - /url: https://www.pennmedicine.org/for-patients-and-visitors/patient-information/conditions-treated-a-to-z/gallstones
+              - img "link" [ref=e1349]
+          - listitem [ref=e1350]:
+            - text: National Institute of Diabetes and Digestive and Kidney Diseases. Treatment for Gallstones [Internet]. National Institute of Diabetes and Digestive and Kidney Diseases. 2019.
+            - link "link" [ref=e1351] [cursor=pointer]:
+              - /url: https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/treatment
+              - img "link" [ref=e1352]
+          - listitem [ref=e1353]:
+            - text: How to Prepare for a Doctor’s Appointment [Internet]. National Institute on Aging.
+            - link "link" [ref=e1354] [cursor=pointer]:
+              - /url: https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment
+              - img "link" [ref=e1355]
+          - listitem [ref=e1356]:
+            - text: Ayurvedic Treatment For Gallbladder Stone | Health-e [Internet]. Health-e. 2023 [cited 2024 Aug 21].
+            - link "link" [ref=e1357] [cursor=pointer]:
+              - /url: https://health-e.in/blog/gallbladder-stone-ayurvedic-treatment/
+              - img "link" [ref=e1358]
+      - paragraph [ref=e1360]: "Last Updated on: 2 September 2024"
+      - generic [ref=e1362]: "Disclaimer: The information provided here is for educational and learning purposes only. It doesn't cover every medical condition and might not be relevant to your personal situation. This information isn't medical advice, isn't meant for diagnosing any condition, and shouldn't replace talking to a certified medical or healthcare professional."
+      - generic [ref=e1363]:
+        - heading "Reviewer" [level=3] [ref=e1364]
+        - generic [ref=e1365]:
+          - img "Dr. K R Vasudevan" [ref=e1369]
+          - generic [ref=e1370]:
+            - heading "Dr. K R Vasudevan" [level=4] [ref=e1371]:
+              - link "Dr. K R Vasudevan" [ref=e1372] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/noida/doctor/dr-k-r-vasudevan-surgical-gastroenterology
+            - paragraph [ref=e1373]: MBBS, MS General Surgery, DNB Surgical Gastroenterology
+            - paragraph [ref=e1374]: 27 Years Experience
+          - paragraph [ref=e1377]:
+            - text: Dr K R Vasudevan is a well-known Gastrointestinal Surgeon currently associated with Max Super Speciality Hospital, Sector 128. He has 27 years of experience in Liver Transplant Surgery and worked as an expert in Liver Transplan...
+            - link "View More" [ref=e1378] [cursor=pointer]:
+              - /url: /noida/doctor/dr-k-r-vasudevan-surgical-gastroenterology
+      - generic [ref=e1379]:
+        - heading "Author" [level=3] [ref=e1380]
+        - generic [ref=e1381]:
+          - img "Kirti" [ref=e1385]
+          - generic [ref=e1386]:
+            - heading "Kirti" [level=4] [ref=e1387]:
+              - link "Kirti" [ref=e1388] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors/kirti-v
+            - paragraph [ref=e1389]: B.A. English | M.A. English ( Magadh University, Bihar)
+            - paragraph [ref=e1390]: 5 Years Experience
+          - paragraph [ref=e1392]:
+            - text: With over 5 years of experience in content writing, SEO, marketing, branding, social media, and copywriting, she creates persuasive content that drives results. For the past 3 years, she has focused on medical cont...
+            - link "View More" [ref=e1393] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/authors/kirti-v
+      - generic [ref=e1395]:
+        - link "Talk to Expert Now" [ref=e1396] [cursor=pointer]:
+          - /url: tel:+918512830995
+        - link "Chat on WhatsApp Now" [ref=e1397] [cursor=pointer]:
+          - /url: https://wa.me/918860688606?text=Hi, I want to know more about Gallstones Condition-ID=43 Tier-ID=2
+    - generic [ref=e1398]:
+      - paragraph [ref=e1400]: Latest Health Articles
+      - generic [ref=e1401]:
+        - generic [ref=e1403]:
+          - 'link "Difference Between Kidney Stone and Gallstone Difference Between Kidney Stone and Gallstone Reviewed By: Dr Aman Priya Khanna Last Updated on 29th Sep 2023" [ref=e1405] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/difference-between-kidney-stone-and-gallstone
+            - generic [ref=e1406]:
+              - img "Difference Between Kidney Stone and Gallstone" [ref=e1408]
+              - generic [ref=e1409]:
+                - paragraph [ref=e1410]: Difference Between Kidney Stone and Gallstone
+                - generic [ref=e1411]:
+                  - generic [ref=e1413]:
+                    - generic [ref=e1414]: "Reviewed By:"
+                    - generic [ref=e1415]: Dr Aman Priya Khanna
+                  - generic [ref=e1416]:
+                    - generic [ref=e1417]: Last Updated on
+                    - generic [ref=e1418]: 29th Sep 2023
+          - 'link "Gallbladder - Meaning, Anatomy, Real Images, Function, Disease Gallbladder - Meaning, Anatomy, Real Images, Function, Disease Reviewed By: Dr Hemant Kumar Khowal Last Updated on 3rd Sep 2024" [ref=e1420] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/gallbladder
+            - generic [ref=e1421]:
+              - img "Gallbladder - Meaning, Anatomy, Real Images, Function, Disease" [ref=e1423]
+              - generic [ref=e1424]:
+                - paragraph [ref=e1425]: Gallbladder - Meaning, Anatomy, Real Images, Function, Disease
+                - generic [ref=e1426]:
+                  - generic [ref=e1428]:
+                    - generic [ref=e1429]: "Reviewed By:"
+                    - generic [ref=e1430]: Dr Hemant Kumar Khowal
+                  - generic [ref=e1431]:
+                    - generic [ref=e1432]: Last Updated on
+                    - generic [ref=e1433]: 3rd Sep 2024
+          - 'link "How to Remove Gallstones Naturally without Surgery? How to Remove Gallstones Naturally without Surgery? Reviewed By: Dr Aman Priya Khanna Last Updated on 3rd Sep 2024" [ref=e1435] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/how-to-remove-gallstones-naturally
+            - generic [ref=e1436]:
+              - img "How to Remove Gallstones Naturally without Surgery?" [ref=e1438]
+              - generic [ref=e1439]:
+                - paragraph [ref=e1440]: How to Remove Gallstones Naturally without Surgery?
+                - generic [ref=e1441]:
+                  - generic [ref=e1443]:
+                    - generic [ref=e1444]: "Reviewed By:"
+                    - generic [ref=e1445]: Dr Aman Priya Khanna
+                  - generic [ref=e1446]:
+                    - generic [ref=e1447]: Last Updated on
+                    - generic [ref=e1448]: 3rd Sep 2024
+          - 'link "Gallbladder Cancer: Curative and Palliative Options Gallbladder Cancer: Curative and Palliative Options Reviewed By: Dr Aman Priya Khanna Last Updated on 13th Oct 2025" [ref=e1450] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/treatment-for-gall-bladder-cancer
+            - generic [ref=e1451]:
+              - 'img "Gallbladder Cancer: Curative and Palliative Options" [ref=e1453]'
+              - generic [ref=e1454]:
+                - paragraph [ref=e1455]: "Gallbladder Cancer: Curative and Palliative Options"
+                - generic [ref=e1456]:
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]: "Reviewed By:"
+                    - generic [ref=e1460]: Dr Aman Priya Khanna
+                  - generic [ref=e1461]:
+                    - generic [ref=e1462]: Last Updated on
+                    - generic [ref=e1463]: 13th Oct 2025
+        - generic [ref=e1464]:
+          - button "Go to slide 1" [ref=e1465] [cursor=pointer]
+          - button "Go to slide 2" [ref=e1466] [cursor=pointer]
+          - button "Go to slide 3" [ref=e1467] [cursor=pointer]
+          - button "Go to slide 4" [ref=e1468] [cursor=pointer]
+    - link "get the app" [ref=e1469] [cursor=pointer]:
+      - /url: https://m.hexahealth.com/qLo3
+      - img "get the app" [ref=e1471]
+  - generic [ref=e1472]:
+    - generic [ref=e1473]:
+      - generic [ref=e1476]:
+        - generic [ref=e1480] [cursor=pointer]: Top Doctors
+        - generic [ref=e1484] [cursor=pointer]: Top Hospitals
+        - generic [ref=e1488] [cursor=pointer]: Treatments
+        - generic [ref=e1492] [cursor=pointer]: Ayushman Bharat
+        - generic [ref=e1496] [cursor=pointer]: Insurance
+        - generic [ref=e1500] [cursor=pointer]: Blogs
+      - generic [ref=e1501]:
+        - generic [ref=e1503]:
+          - generic [ref=e1504]:
+            - generic [ref=e1505]: Address
+            - generic [ref=e1506]: Vianam Healthtech Private Limited (HexaHealth), Third Floor Building B, The Presidency, 46/4, Sector 14, Mehrauli Gurgaon Road, Gurgaon, Haryana 122001
+          - generic [ref=e1507]:
+            - generic [ref=e1508]: Follow Us
+            - generic [ref=e1509]:
+              - link "Facebook" [ref=e1511] [cursor=pointer]:
+                - /url: https://www.facebook.com/HexaHealthLive
+                - img "Facebook" [ref=e1512]
+              - link "Twitter" [ref=e1514] [cursor=pointer]:
+                - /url: https://www.twitter.com/hexahealthlive
+                - img "Twitter" [ref=e1515]
+              - link "Linkedin" [ref=e1517] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/hexahealth
+                - img "Linkedin" [ref=e1518]
+              - link "Instagramr" [ref=e1520] [cursor=pointer]:
+                - /url: https://www.instagram.com/hexahealthofficial/
+                - img "Instagram" [ref=e1521]
+              - link "youtube" [ref=e1523] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCsS6Q5M3KqdJ1WWuy5JRmIg
+                - img "YouTube" [ref=e1524]
+          - generic [ref=e1525]:
+            - link "Facebook" [ref=e1526] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1527]
+            - link "Facebook" [ref=e1528] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1529]
+        - generic [ref=e1531]:
+          - text: Medical Tests
+          - list [ref=e1532]:
+            - listitem [ref=e1533]:
+              - link "MPV Blood Test in Hindi" [ref=e1534] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mpv-blood-test-in-hindi
+          - list [ref=e1535]:
+            - listitem [ref=e1536]:
+              - link "MCH Blood Test in Hindi" [ref=e1537] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mch-blood-test-in-hindi
+          - list [ref=e1538]:
+            - listitem [ref=e1539]:
+              - link "ESR Blood Test" [ref=e1540] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/esr-blood-test
+          - list [ref=e1541]:
+            - listitem [ref=e1542]:
+              - link "Double Marker Test" [ref=e1543] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/double-marker-test
+          - list [ref=e1544]:
+            - listitem [ref=e1545]:
+              - link "HCT Blood Test in Hindi" [ref=e1546] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/hct-blood-test-in-hindi
+          - list [ref=e1547]:
+            - listitem [ref=e1548]:
+              - link "TB Gold Test" [ref=e1549] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/tb-gold-test
+          - list [ref=e1550]:
+            - listitem [ref=e1551]:
+              - link "CA 125 Blood Test" [ref=e1552] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/ca-125-blood-test
+          - list [ref=e1553]:
+            - listitem [ref=e1554]:
+              - link "CA 125 Test in Hindi" [ref=e1555] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/ca-125-test-in-hindi
+          - list [ref=e1556]:
+            - listitem [ref=e1557]:
+              - link "SGPT Test" [ref=e1558] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/sgpt-test
+          - list [ref=e1559]:
+            - listitem [ref=e1560]:
+              - link "ANC Profile Test" [ref=e1561] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/anc-profile-test
+          - list [ref=e1562]:
+            - listitem [ref=e1563]:
+              - link "Serum Iron Test" [ref=e1564] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/serum-iron-test
+          - list [ref=e1565]:
+            - listitem [ref=e1566]:
+              - link "RGU Test" [ref=e1567] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/rgu-test
+          - list [ref=e1568]:
+            - listitem [ref=e1569]:
+              - link "Double Marker Test in Hindi" [ref=e1570] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/double-marker-test-in-hindi
+        - generic [ref=e1572]:
+          - text: HexaHealth
+          - list [ref=e1573]:
+            - listitem [ref=e1574]:
+              - link "About Us" [ref=e1575] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/about-us
+          - list [ref=e1576]:
+            - listitem [ref=e1577]:
+              - link "Contact Us" [ref=e1578] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/contact-us
+          - list [ref=e1579]:
+            - listitem [ref=e1580]:
+              - link "For Investors" [ref=e1581] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/investor
+          - list [ref=e1582]:
+            - listitem [ref=e1583]:
+              - link "Partner With Us" [ref=e1584] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/partner-with-us
+          - list [ref=e1585]:
+            - listitem [ref=e1586]:
+              - link "FAQs" [ref=e1587] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/faq
+          - list [ref=e1588]:
+            - listitem [ref=e1589]:
+              - link "Press & Media" [ref=e1590] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/press
+          - list [ref=e1591]:
+            - listitem [ref=e1592]:
+              - link "Medical Reviewers" [ref=e1593] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviewers
+          - list [ref=e1594]:
+            - listitem [ref=e1595]:
+              - link "Authors" [ref=e1596] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors
+          - list [ref=e1597]:
+            - listitem [ref=e1598]:
+              - link "Careers" [ref=e1599] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/careers
+          - list [ref=e1600]:
+            - listitem [ref=e1601]:
+              - link "Site Map" [ref=e1602] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/sitemap.xml
+        - generic [ref=e1604]:
+          - text: Policies
+          - list [ref=e1605]:
+            - listitem [ref=e1606]:
+              - link "Privacy Policy" [ref=e1607] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/privacy
+          - list [ref=e1608]:
+            - listitem [ref=e1609]:
+              - link "Refund Policy" [ref=e1610] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/refund-policy
+          - list [ref=e1611]:
+            - listitem [ref=e1612]:
+              - link "Terms & Conditions" [ref=e1613] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/terms-conditions
+          - list [ref=e1614]:
+            - listitem [ref=e1615]:
+              - link "Editorial Policy" [ref=e1616] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/editorial-policy
+        - generic [ref=e1618]:
+          - text: For Patients
+          - list [ref=e1619]:
+            - listitem [ref=e1620]:
+              - link "All Doctors" [ref=e1621] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/doctors
+          - list [ref=e1622]:
+            - listitem [ref=e1623]:
+              - link "All Hospitals" [ref=e1624] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals
+          - list [ref=e1625]:
+            - listitem [ref=e1626]:
+              - link "All Conditions" [ref=e1627] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/condition
+          - list [ref=e1628]:
+            - listitem [ref=e1629]:
+              - link "All Treatments" [ref=e1630] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/treatment
+          - list [ref=e1631]:
+            - listitem [ref=e1632]:
+              - link "All Departments" [ref=e1633] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/departments
+          - list [ref=e1634]:
+            - listitem [ref=e1635]:
+              - link "Second Opinion" [ref=e1636] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/second-opinion
+          - list [ref=e1637]:
+            - listitem [ref=e1638]:
+              - link "Medical Loan" [ref=e1639] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/medical-loan
+          - list [ref=e1640]:
+            - listitem [ref=e1641]:
+              - link "BMI Calculator" [ref=e1642] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/tools/bmi-calculator
+          - list [ref=e1643]:
+            - listitem [ref=e1644]:
+              - link "English Blog" [ref=e1645] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog
+          - list [ref=e1646]:
+            - listitem [ref=e1647]:
+              - link "Hindi Blog" [ref=e1648] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/blog
+          - list [ref=e1649]:
+            - listitem [ref=e1650]:
+              - link "HexaHealth Reviews" [ref=e1651] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviews
+          - list [ref=e1652]:
+            - listitem [ref=e1653]:
+              - link "All Cities" [ref=e1654] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/india
+          - list [ref=e1655]:
+            - listitem [ref=e1656]:
+              - link "All Insurance Hospitals" [ref=e1657] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance
+          - list [ref=e1658]:
+            - listitem [ref=e1659]:
+              - link "Health Policy Assistant" [ref=e1660] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/health-insurance-policy-help
+    - generic [ref=e1662]: Vianam Healthtech Private Limited © 2026. All Rights Reserved.
+  - alert [ref=e1663]
+  - generic [ref=e1665]:
+    - img [ref=e1666]
+    - text: BOOK NOW
+```
