@@ -1,0 +1,65 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - img "aiChatIcon" [ref=e5]
+      - generic [ref=e6]:
+        - heading "HealthGPT" [level=4] [ref=e7]
+        - text: Available 24x7
+    - generic [ref=e9]:
+      - generic [ref=e12]: Cost of laser surgery for piles
+      - generic [ref=e15]: Let me look that up for you.
+      - generic [ref=e19]: I want to book an appointment
+      - generic [ref=e22]: Laser treatment for pi
+      - generic [ref=e26]: HealthGPTTest 9599558739 Piles Delhi
+      - generic [ref=e28]:
+        - generic [ref=e30]:
+          - text: to traditional surgery.
+          - text: "The cost of laser surgery for piles typically ranges from ₹35,000 to ₹1,10,000. This can vary based on factors like:"
+          - text: Consultation and surgeon's fees
+          - text: Admission fees (even for daycare procedures)
+          - text: Patient's age and medical condition
+          - text: Type of hospital and its location
+          - text: Cost of diagnostic tests
+          - text: Potential post-surgery complications
+          - text: It's important to consult with a proctologist to determine the most appropriate treatment based on the severity of the condition.
+        - generic [ref=e32]:
+          - button [ref=e34] [cursor=pointer]
+          - button [ref=e36] [cursor=pointer]
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - text: to traditional surgery.
+          - text: "The cost of laser surgery for piles typically ranges from ₹35,000 to ₹1,10,000. This can vary based on factors like:"
+          - text: Consultation and surgeon's fees
+          - text: Admission fees (even for daycare procedures)
+          - text: Patient's age and medical condition
+          - text: Type of hospital and its location
+          - text: Cost of diagnostic tests
+          - text: Potential post-surgery complications
+          - text: It's important to consult with a proctologist to determine the most appropriate treatment based on the severity of the condition.
+          - text: Certainly, I can help you book an appointment for laser surgery for piles.
+          - text: "To proceed, please provide the following details:"
+          - text: Your full name
+          - text: Your 10-digit mobile number
+          - text: Your cityYour appointment for Piles has been booked. Our team will contact you at 9599558739 shortly.
+        - generic [ref=e43]:
+          - button [ref=e45] [cursor=pointer]
+          - button [ref=e47] [cursor=pointer]
+        - generic [ref=e48]:
+          - button "What are the benefits of laser surgery for piles?" [ref=e50] [cursor=pointer]
+          - button "How is laser surgery for piles performed?" [ref=e52] [cursor=pointer]
+          - button "Can you help me find a doctor for piles treatment?" [ref=e54] [cursor=pointer]
+      - generic [ref=e57]:
+        - button "What are the benefits of laser surgery for piles?" [ref=e59] [cursor=pointer]
+        - button "How is laser surgery for piles performed?" [ref=e61] [cursor=pointer]
+        - button "Can you help me find a doctor for piles treatment?" [ref=e63] [cursor=pointer]
+    - generic [ref=e66]:
+      - button "Share your report" [ref=e68] [cursor=pointer]:
+        - img "attachment" [ref=e69]
+      - textbox "Enter your health query..." [active] [ref=e70]
+      - button "Start voice input" [ref=e72] [cursor=pointer]:
+        - img [ref=e73]
+  - alert [ref=e77]
+```
